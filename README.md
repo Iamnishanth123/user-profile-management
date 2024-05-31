@@ -1,3 +1,3 @@
-Contain the HTML CODE for Master and Transaction tables.
-Used Javascript for itnegration part.
+Contains HTML CODE for Master and Transaction tables.
+Used Javascript for integration part.
 Oracle Live Sql for Database.
