@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://www.netguru.com/hs-fs/hubfs/Bespoke_Hero_Background-1.jpg?width=1078&height=520&name=Bespoke_Hero_Background-1.jpg);
+    font-family: 'Dancing Script', cursive;
+    color: rgb(rgb(167, 2, 2), rgb(87, 219, 87), rgb(30, 30, 234));
+    background-size: cover;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(10px);
+    background-attachment: fixed;
+    display: flex;
+    position: fixed;
+    right: 60%;
+    top: 20%;
+    height: 100vh;    margin: 0px;
+    padding: 0px;
+    
+}
+container{
+    top: 10%;
+    left: 35%;
+    position: absolute;
+    padding: 5px 10px 15px 20px;
+    border-radius: 10%;
+    border-color: red;
+    color: coral;
+    flex: 1;
+    margin-right: 10px;
+
+}
+h1{
+    position: relative;
+    left: -40px;
+}

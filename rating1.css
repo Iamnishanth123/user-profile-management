@@ -1,0 +1,42 @@
+body{
+    background-image: url(https://img.freepik.com/free-photo/assortment-cinema-elements-red-background-with-copy-space_23-2148457848.jpg?size=626&ext=jpg&ga=GA1.1.2079557714.1696836140&semt=ais);
+    filter: blur(10%);
+    background-color:rgb(rgb(167, 2, 2), rgb(87, 219, 87), rgb(30, 30, 234));
+    font-family: 'Dancing Script', cursive;
+    color: rgb(rgb(167, 2, 2), rgb(87, 219, 87), rgb(30, 30, 234));
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    position: fixed;
+    
+    left: 20%;
+    top: 30%;
+    height: 100vh;    margin: 0px;
+    padding: 0px;
+    
+}
+
+
+container{
+    top: 15%;
+    left: 35%;
+    position: absolute;
+    padding: 5px 10px 15px 20px;
+    border-radius: 10%;
+    border-color: red;
+    color: coral;
+    flex: 1;
+    background-color: aquamarine;
+    margin-right: 10px;
+
+}
+h1{
+    position: relative;
+    left: 0px;
+}
+form{
+    background-color: rgba(249, 237, 165, 0.6);
+    width: 350px; /* Change the width to your desired size */
+    height: 250px; /* Change the height to your desired size */
+}

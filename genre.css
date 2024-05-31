@@ -1,0 +1,42 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/329583.jpg);
+    filter: blur(10%);
+    background-color:rgb(rgb(167, 2, 2), rgb(87, 219, 87), rgb(30, 30, 234));
+    font-family: 'Dancing Script', cursive;
+    color: rgb(rgb(167, 2, 2), rgb(87, 219, 87), rgb(30, 30, 234));
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    position: fixed;
+    
+    left: 40%;
+    top: 20%;
+    height: 100vh;    margin: 0px;
+    padding: 0px;
+    
+}
+
+
+container{
+    top: 15%;
+    left: 35%;
+    position: absolute;
+    padding: 5px 10px 15px 20px;
+    border-radius: 10%;
+    border-color: red;
+    color: coral;
+    flex: 1;
+    background-color: aquamarine;
+    margin-right: 10px;
+
+}
+h1{
+    position: relative;
+    left: 0px;
+}
+form{
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 450px; /* Change the width to your desired size */
+    height: 500px; /* Change the height to your desired size */
+}
